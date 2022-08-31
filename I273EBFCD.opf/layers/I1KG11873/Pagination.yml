@@ -1,0 +1,118 @@
+id: aa7a1b2315694d9682b3a158b86c175c
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  404858c12bb74163b62efd7af8d95b1f:
+    span:
+      start: 0
+      end: 673
+    imgnum: 1
+    reference: I1KG118730001.tif
+  3754431a1712454dbe8aa97a4a772f58:
+    span:
+      start: 674
+      end: 755
+    imgnum: 3
+    reference: I1KG118730003.tif
+  e4e0f84a96bc4397bbf40eebcdf4149e:
+    span:
+      start: 756
+      end: 1063
+    imgnum: 4
+    reference: I1KG118730004.tif
+  7dbc85c969f146faa7505e1eac6dd559:
+    span:
+      start: 1064
+      end: 1382
+    imgnum: 5
+    reference: I1KG118730005.tif
+  f2e70dff30d04cc78528f7807f4f3cab:
+    span:
+      start: 1383
+      end: 1693
+    imgnum: 6
+    reference: I1KG118730006.tif
+  2f7970e5520c41f89b75e6fc54d317cc:
+    span:
+      start: 1694
+      end: 2029
+    imgnum: 7
+    reference: I1KG118730007.tif
+  5bdcdb52d7a34d53a8613029d33c1d12:
+    span:
+      start: 2030
+      end: 2531
+    imgnum: 8
+    reference: I1KG118730008.tif
+  57349170dff74c469626345a126d9d97:
+    span:
+      start: 2532
+      end: 3016
+    imgnum: 9
+    reference: I1KG118730009.tif
+  5f1ed064be7443fa81e82d0d00ccc9eb:
+    span:
+      start: 3017
+      end: 3525
+    imgnum: 10
+    reference: I1KG118730010.tif
+  efd50c64a7e34b87950845c381934c6f:
+    span:
+      start: 3526
+      end: 4037
+    imgnum: 11
+    reference: I1KG118730011.tif
+  392061da9c1e4a058e7e886b48b6af23:
+    span:
+      start: 4038
+      end: 4593
+    imgnum: 12
+    reference: I1KG118730012.tif
+  981a339e39e0411ebbdd50a68489dc1e:
+    span:
+      start: 4594
+      end: 5144
+    imgnum: 13
+    reference: I1KG118730013.tif
+  9e68b3d76cbf406ca1988ccaecbece40:
+    span:
+      start: 5145
+      end: 5700
+    imgnum: 14
+    reference: I1KG118730014.tif
+  ab331471545640eb8552505fb38ff424:
+    span:
+      start: 5701
+      end: 6231
+    imgnum: 15
+    reference: I1KG118730015.tif
+  784a75171b1349ddb2a3e1602221fe5c:
+    span:
+      start: 6232
+      end: 6762
+    imgnum: 16
+    reference: I1KG118730016.tif
+  47e838fd4be6469a8b842eb7df5b79bd:
+    span:
+      start: 6763
+      end: 7281
+    imgnum: 17
+    reference: I1KG118730017.tif
+  d244bcee67124c2594fe26cf60d3a367:
+    span:
+      start: 7282
+      end: 7814
+    imgnum: 18
+    reference: I1KG118730018.tif
+  d39d74b9c06c4f5c8442aa82b22fe57c:
+    span:
+      start: 7815
+      end: 8285
+    imgnum: 19
+    reference: I1KG118730019.tif
+  f1522b6c4a474522945dfd438197034b:
+    span:
+      start: 8286
+      end: 8647
+    imgnum: 20
+    reference: I1KG118730020.tif
